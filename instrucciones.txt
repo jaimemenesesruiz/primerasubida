@@ -1,0 +1,10 @@
+El archivo que se debe ejecutar es datos.js
+Parainscribir un estudiante, se debe escribir el comando
+node datos inscribir -i=[el id del curso] -n=['nombre del interesado (entrecomillas simples)'] -c=[dedula del intresado]
+
+donde:
+i es el id del curso :number
+n es el nombre del interesado: string
+y c es la cedula del interesado: number
+
+

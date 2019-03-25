@@ -1,0 +1,7 @@
+El nombre del interesas es: rodrigo
+Numero de cedula: 12345678
+Curso: 
+id: 3
+Nombre: Angular 4+ Avanzado
+Duracion: 180
+Valor: 500000
